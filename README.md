@@ -9,7 +9,7 @@ The objective of this project is to build a model capable of distinguishing betw
 ## Technologies Used
 
 - Python
-- Colab Notebook
+- Jupyter Notebook
 - Libraries:
   - nltk (Natural Language Toolkit)
   - re (Regular Expressions)
